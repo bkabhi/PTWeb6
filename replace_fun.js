@@ -1,9 +1,8 @@
-// function name(params) {
+function name(params) {
     
-// }
+}
 
-
-var p = 'The quick brown fox jumps over the lazy dog. If the dog reacted, was it really lazy?';
+var p = 'The quick brown fox jumps over the lazy um esh. If the dog reacted, was it really lazy?';
 var arr = [];
 var word = "";
 for(var i=0; i<p.length; i++){
@@ -16,6 +15,7 @@ for(var i=0; i<p.length; i++){
 }
 arr.push(word)
 console.log(arr);
+//check new things"
 
 
 
